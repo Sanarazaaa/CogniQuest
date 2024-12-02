@@ -1,5 +1,10 @@
 # CogniQuest
 
+# Results
+
+**People with stress have their working memory impacted.**
+
+# Objective
 
 This project is a simple cognitive development test designed to assess different cognitive abilities, including working memory and problem-solving skills. The test consists of two main tasks:
 
